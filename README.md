@@ -1,4 +1,6 @@
-<img src="Dermafyr.png"/>
+# Dermafyr
+
+<img src="https://github.com/user-attachments/assets/d6d80140-a001-4437-8755-f0730bfb096b"/>
 
 ## Inspiration
 The growing accessibility gap in dermatological care inspired us to create Dermafyr. Many people struggle to get professional skin advice, either due to cost, location or wait times. We wanted to democratize access to quality skincare guidance by bringing AI-powered dermatological analysis directly to local stores and homes.
