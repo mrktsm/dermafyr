@@ -2,6 +2,8 @@
 
 ![dermafyr-rounded](https://github.com/user-attachments/assets/d988c1b9-c1f0-4f31-a6b4-8509c5735fab)
 
+[See the Live Demo here!
+](https://www.youtube.com/watch?v=3ZTVrNvTw7I)
 ## Inspiration
 The growing accessibility gap in dermatological care inspired us to create Dermafyr. Many people struggle to get professional skin advice, either due to cost, location or wait times. We wanted to democratize access to quality skincare guidance by bringing AI-powered dermatological analysis directly to local stores and homes.
 ## What it does
@@ -70,6 +72,4 @@ Implement AR features for virtual product try-ons
 Partner with dermatologists for validated recommendation systems
 Create a community feature for users to share their skincare journeys
 
-## Demo Video:
-[![Demo Video](https://img.youtube.com/vi/3ZTVrNvTw7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=3ZTVrNvTw7I)
 
